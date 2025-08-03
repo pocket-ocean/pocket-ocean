@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pocket-ocean | Brian O'Brien
-- 👀 I’m interested in ... Web Development and make music for fun!
-- 🌱 I’m currently doing a HDiP in Software Development in NUI Galway. 
-- 💞️ I’m looking to get an internship for after the Summer. 
+- 👀 I'm a Software Engineer and Composer
+- 🌱 Looking to learn some game development - currently looking at Renpy.
 - 📫 You can reach me here or at brianobrien2323@gmail.com
 
 <!---
